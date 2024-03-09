@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [rzrworks.artstation.com](https://www.artstation.com/rzrworks)
 
-- 💬 Ask me about **games**
+- 💬 Ask me about **my next game idea**
 
 - 📫 How to reach me **rzgryl33@gmail.com**
 
