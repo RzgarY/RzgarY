@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rzgryl33@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/rzgry](www.linkedin.com/in/rzgry)
+- 📄 Know about my experiences [linkedin.com/in/rzgry](http://www.linkedin.com/in/rzgry)
 
 
 <h3 align="left">Languages and Tools:</h3>
