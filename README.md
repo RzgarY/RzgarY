@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://www.artstation.com/rzrworks](https://www.artstation.com/rzrworks)
+- 👨‍💻 All of my projects are available at [rzrworks.artstation.com](https://www.artstation.com/rzrworks)
 
 - 💬 Ask me about **games**
 
 - 📫 How to reach me **rzgryl33@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/rzgry](linkedin.com/in/rzgry)
+- 📄 Know about my experiences [linkedin.com/in/rzgry](www.linkedin.com/in/rzgry)
 
 
 <h3 align="left">Languages and Tools:</h3>
