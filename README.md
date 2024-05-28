@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzgary&label=Profile%20views&color=0e75b6&style=flat" alt="rzgary" /> </p>
 
-- 🔭 I’m currently working on **game jam projects**
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [rzrworks.artstation.com](https://www.artstation.com/rzrworks)
+- 👨‍💻 Check out my portfolio website **RzgarY.github.io**
 
 - 💬 Ask me about **my next game idea**
 
