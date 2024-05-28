@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 Check out my portfolio website **RzgarY.github.io**
+- 👨‍💻 Check out my portfolio website [RzgarY.github.io](https://rzgary.github.io/)
 
 - 💬 Ask me about **my next game idea**
 
